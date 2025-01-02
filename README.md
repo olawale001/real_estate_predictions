@@ -1,1 +1,1 @@
-# real_estate_preditions
+# real_estate_predictions
